@@ -1,2 +1,1 @@
-Hope Eyes 
-Lenovo Hackathon 2017
+Hope Eyes @ Lenovo Hackathon 2017
