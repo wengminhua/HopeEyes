@@ -1,7 +1,7 @@
 [
   {
-    "code": "banana",
-    "keyword": "香蕉"
+    "code": "mouse",
+    "keyword": "鼠标"
   },
   {
     "code": "sprite",
@@ -10,5 +10,13 @@
   {
     "code": "coca",
     "keyword": "可乐"
+  },
+  {
+    "code": "banana",
+    "keyword": "香蕉"
+  },
+  {
+    "code": "laptop",
+    "keyword": "笔记本"
   }
 ]
