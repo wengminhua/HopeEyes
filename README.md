@@ -1,1 +1,1 @@
-Hope Eyes @ Lenovo Hackathon 2017
+Hope Eyes @ Intel Hackathon 2018
