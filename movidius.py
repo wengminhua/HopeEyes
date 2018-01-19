@@ -2,6 +2,7 @@ from mvnc import mvncapi as mvnc
 import Queue
 import threading
 import numpy
+import time
 
 class Movidius:
     def __init__(self, device_index):
